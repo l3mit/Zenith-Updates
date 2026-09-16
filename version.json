@@ -1,6 +1,6 @@
 {
   "version": "0.1.2",
   "download_url": "",
-  "changelog": "Первая тестовая версия",
-  "required": false
+  "changelog": "test",
+  "required": true
 }
