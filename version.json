@@ -1,6 +1,6 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.4 h",
   "url": "https://github.com/l3mit/Zenith-Tweaker/releases/download/v0.1.4/zenith-tweaker.exe",
   "notes": "скоро релиз...",
-  "mandatory": false
+  "mandatory": true
 }
