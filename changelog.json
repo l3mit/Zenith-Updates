@@ -1,0 +1,26 @@
+[
+  {
+    "version": "0.2.0-alpha",
+    "date": "2026-10-25",
+    "notes": "Обновлённый дизайн: мягкая подсветка акцентом, аккуратные карточки\nАвтозагрузка: проверка результата и запрос прав администратора для общесистемных элементов и задач\nБольшое обновление дизайна: баннер на главной, интерфейс окрашивается в цвет акцента\nСворачиваемая боковая панель (иконки), сама сворачивается в узком окне\nКаскадные анимации карточек, плавные уведомления и окна\n29 новых твиков, в т.ч. с правами администратора и для игр\nАвтоподбор размера окна и масштаба под экран",
+    "notes_en": "Refreshed design: soft accent tint, clean cards\nStartup: result verification and administrator prompt for machine-wide items and tasks\nMajor design update: dashboard hero banner, UI tinted with your accent color\nCollapsible sidebar (icons), collapses automatically in narrow windows\nStaggered card animations, smooth toasts and dialogs\n29 new tweaks, incl. admin and gaming ones\nAutomatic window size and scale for any screen"
+  },
+  {
+    "version": "0.1.4-alpha",
+    "date": "2026-10-20",
+    "notes": "Окно запуска: сначала анимация в маленьком окне, потом открывается программа\nИконка и логотип меняют цвет вместе с акцентом\n29 новых твиков приватности и производительности, в т.ч. с правами администратора (через UAC, только когда нужно)\nПлавные анимации интерфейса (можно отключить), новый дизайн: кольца загрузки, адаптивная сетка карточек, свечение акцента\nБекапы: контрольная сумма, страховочная копия перед восстановлением, содержимое\nДанные хранятся в папке data рядом с программой",
+    "notes_en": "Startup window: animation plays in a small window first, then the app opens\nIcon and logo follow the accent color\n29 new privacy and gaming and performance tweaks, including admin ones (via UAC, only when needed)\nSmooth interface animations (can be turned off), new design: load rings, responsive card grid, accent glow\nBackups: checksum, safety copy before restore, contents view\nData is stored in the data folder next to the app"
+  },
+  {
+    "version": "0.1.3-alpha",
+    "date": "2026-10-18",
+    "notes": "Отдельный раздел «Автозагрузка»: реестр, папки и Планировщик заданий\nXbox mode вместо «Игровой режим Windows»\nЗапуск без консоли, плавная работа: тяжёлые операции идут в фоне\nНачальный экран, язык RU/EN, настройки оформления и анимация запуска\nОкно «Что нового», история обновлений и автобекап перед применением твиков",
+    "notes_en": "New “Startup” section: registry, folders and Task Scheduler\nXbox mode replaces “Windows Game Mode”\nNo console window, smoother work: heavy operations run in the background\nWelcome screen, RU/EN language, appearance settings and startup animation\n“What’s new” window, update history and auto-backup before applying tweaks"
+  },
+  {
+    "version": "0.1.2-alpha",
+    "date": "2026-10-08",
+    "notes": "Реальный список автозагрузки и автозапуск самой программы\nБекапы с подтверждением и защитой от повреждённых файлов\nПроверка обновлений и иконка в EXE",
+    "notes_en": "Real startup list and the app’s own autostart\nBackups with confirmation and protection from corrupted files\nUpdate check and the icon embedded in the EXE"
+  }
+]
