@@ -1,5 +1,11 @@
 [
   {
+    "version": "0.3.0-alpha",
+    "date": "2026-10-30",
+    "notes": "Обновлённый дизайн: мягкая подсветка акцентом, аккуратные карточки\nАвтозагрузка: проверка результата и запрос прав администратора для общесистемных элементов и задач\nБольшое обновление дизайна: баннер на главной, интерфейс окрашивается в цвет акцента\nСворачиваемая боковая панель (иконки), сама сворачивается в узком окне\nКаскадные анимации карточек, плавные уведомления и окна\n29 новых твиков, в т.ч. с правами администратора и для игр\nАвтоподбор размера окна и масштаба под экран",
+    "notes_en": "Refreshed design: soft accent tint, clean cards\nStartup: result verification and administrator prompt for machine-wide items and tasks\nMajor design update: dashboard hero banner, UI tinted with your accent color\nCollapsible sidebar (icons), collapses automatically in narrow windows\nStaggered card animations, smooth toasts and dialogs\n29 new tweaks, incl. admin and gaming ones\nAutomatic window size and scale for any screen"
+  },
+  {
     "version": "0.2.0-alpha",
     "date": "2026-10-25",
     "notes": "Обновлённый дизайн: мягкая подсветка акцентом, аккуратные карточки\nАвтозагрузка: проверка результата и запрос прав администратора для общесистемных элементов и задач\nБольшое обновление дизайна: баннер на главной, интерфейс окрашивается в цвет акцента\nСворачиваемая боковая панель (иконки), сама сворачивается в узком окне\nКаскадные анимации карточек, плавные уведомления и окна\n29 новых твиков, в т.ч. с правами администратора и для игр\nАвтоподбор размера окна и масштаба под экран",
